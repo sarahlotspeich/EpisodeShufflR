@@ -1,0 +1,10 @@
+Package: EpisodeShufflR
+Type: Package
+Title: Episode shuffler for on-demand TV.
+Version: 0.1.0
+Author: Sarah C. Lotspeich
+Maintainer: Sarah C. Lotspeich <sarah.c.lotspeich@vanderbilt.edu>
+Description: This package randomly samples episodes from TV shows. Select shows are included in the package, but the user can also feed their own episode list.
+License: 
+Encoding: UTF-8
+LazyData: true
